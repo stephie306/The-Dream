@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e300a9f25adff5d43a3411a8f6ccd1c6, type: 3}
+  m_Name: Mushroom_02
+  m_EditorClassIdentifier: 
+  id: Mushroom_02
+  iname: Mushroom Brown
+  icon: {fileID: 21300000, guid: 7d5c48df7ca33c44f8ef531be562e96e, type: 3}
+  prefab: {fileID: 5440707293445505367, guid: 494f6d43e170e9145bc7865d243ee00b, type: 3}
