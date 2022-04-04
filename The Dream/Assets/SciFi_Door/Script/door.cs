@@ -7,12 +7,10 @@ public class door : MonoBehaviour
 
     void OnCollisionEnter(Collision obj)
     {
-        if (obj.gameObject.tag == "Mushroom")
+        if (obj.gameObject.tag == "")
         {
             thedoor = GameObject.FindWithTag("SF_Door");
             thedoor.GetComponent<Animation>().Play("open");
         }
-
     }
-
 }
